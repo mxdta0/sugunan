@@ -1,0 +1,17 @@
+{
+  "name": "sarvam-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that uses the Sarvam AI API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
